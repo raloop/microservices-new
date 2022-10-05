@@ -1,0 +1,5 @@
+eu\raloop\inventoryservice\InventoryServiceApplication.class
+eu\raloop\inventoryservice\model\Inventory.class
+eu\raloop\inventoryservice\repository\InventoryRepository.class
+eu\raloop\inventoryservice\controller\InventoryController.class
+eu\raloop\inventoryservice\service\InventoryService.class

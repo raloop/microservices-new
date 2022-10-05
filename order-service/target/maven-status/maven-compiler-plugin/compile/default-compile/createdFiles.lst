@@ -1,0 +1,8 @@
+eu\raloop\orderservice\controller\OrderController.class
+eu\raloop\orderservice\dto\OrderRequest.class
+eu\raloop\orderservice\model\OrderLineItems.class
+eu\raloop\orderservice\OrderServiceApplication.class
+eu\raloop\orderservice\service\OrderService.class
+eu\raloop\orderservice\model\Order.class
+eu\raloop\orderservice\dto\OrderLineItemsDto.class
+eu\raloop\orderservice\repository\OrderRepository.class
